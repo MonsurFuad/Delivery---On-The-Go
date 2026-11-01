@@ -39,11 +39,6 @@ The 8-hire request would cost BDT 185,600, which is 2.65 times the available bud
 | `Dashboard/4 Staffing & Plan` | Dashboard page 4: staffing gap with and without the plan, and the budget |
 | `Hub Staffing Recommendation - Delivery On The Go` | The 8-slide presentation for the Head of Operations |
 
-## Live dashboard
-
-**[INSERT DASHBOARD LINK]** (opens without a login)
-
-To use the source file instead, open `Dashboard/Delivery on the go.pbix` in Power BI Desktop (Windows). The model reads the CSV files in `Datasets/`; if Power BI cannot find them, update the file paths under Transform data > Data source settings.
 
 ## Method
 
